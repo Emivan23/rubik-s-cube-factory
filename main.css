@@ -1,0 +1,334 @@
+body
+{
+padding: 0;
+margin: 0;
+}
+
+.main_page
+{
+background-color: white;
+
+display: flex;
+flex-direction: column;
+
+//height: 100px;
+height: 100vh;
+}
+
+.up
+{
+
+ 
+ background-color: #c0c0c0;
+ padding: 15px;
+
+
+}
+.center1	
+{
+	
+	display: flex;
+	
+	 	width: 80%;
+	
+	
+	
+}
+.zavod1
+{
+	display: flex;
+	flex-direction: column;
+justify-content: center;
+top: 51px;
+}
+.up1
+{
+	
+	    letter-spacing: 0.1em;
+    font-weight: 700;
+    line-height: 1.2;
+    color: white;
+    font-size: 30px;
+	color: white;
+}
+.down1
+{
+	letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: white;
+    white-space: nowrap;
+}
+
+
+.left
+{
+	
+ padding-left: 100px;
+
+}
+
+.left1
+{
+
+    padding-top: 45px;
+    letter-spacing: 0.1em;
+    /* font-weight: 700; */
+    line-height: 1.2;
+  
+}
+
+
+.right21
+{
+  padding-left: 250px;
+ 
+}
+
+.right21
+{
+margin-top: 52px;	
+}
+
+.novosib
+{
+	color: #f9c375;
+    white-space: nowrap;
+    font-weight: 700;
+    font-size: 15px;
+    margin-top: 20px;
+    letter-spacing: 0.08em;
+}
+
+.karta
+{
+	margin-top: -52px;
+    padding-left: 30px;
+    color: #726f6f;
+}
+
+
+
+
+.midlle
+{
+	background: -webkit-gradient(linear, left top, left bottom, from(#f9c375), color-stop(55%, #dff0fa), color-stop(55%, #d5eefa), to(#ccebfa));
+
+display: flex;
+
+margin-bottom: 30px;
+padding: 6px;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+.center
+{
+    display: flex;
+    gap: 40px;
+    width: 60%;
+    color: #186ea8;
+    padding-right: 100px;
+}
+.zavod
+{
+flex: 1;
+    padding-left: 150px;
+
+
+}
+.pokypatel
+{
+flex: 1;
+    white-space: nowrap;
+
+
+}
+.organizacia
+{
+flex: 1;
+}
+
+.service
+{
+flex: 1;
+}
+.novosti
+{
+flex: 1;
+}
+.contact
+{
+flex: 1;
+}
+.lypa
+{
+display: flex;
+margin-left: 10px;
+height: 19px;
+}
+
+
+
+.down
+{
+flex: 4;
+display: flex;
+justify-content: center;
+}
+
+
+.downleft0
+{
+width: 750px;
+    font-size: 37px;
+    padding-right: 50px;
+}
+
+.dowmright
+{
+	position:relative;
+
+	right:5%;
+	width: 96.25;
+	width: 251px;
+	height: 900px;
+	border: 0.0625rem solid #2385bf;
+	padding: 12px 12px 12px 5px;
+	 
+    line-height: 1.2;
+}
+
+
+.one
+{
+    text-align:center;
+    margin:0 0 12px 0;
+        color:#000;
+            font-size: 17px;
+}
+.two
+{
+	text-align:center;
+	color:#2385bf;
+}
+  
+
+
+.four
+{
+	text-align:center;
+	    padding-top: 15px;
+        
+   
+}
+.five
+{
+	text-align:center;
+    margin:0 0 12px 0;
+        padding-top: 15px;
+       color:#2385bf;
+}
+.six
+{
+	text-align:center;
+    padding-top: 15px;
+    
+}
+.seven
+{
+	text-align:center;
+	margin:0 0 12px 0;
+     color:#2385bf;
+      padding-top: 15px;
+}
+
+
+
+.reg
+{
+	  display: flex;
+	font-size: 20px;
+ 
+    text-align: center;
+    padding-top: 12px;
+    height: 31px;
+       text-align: left;
+           margin: 12px;
+
+}
+
+.nytr
+{
+	
+    padding-top: 50px;
+}
+.information
+{
+	    margin-top: 26px;
+    margin-bottom: 17px;
+    font-size: 22px;
+    text-align: center;
+        width: 627px;
+}
+.information1
+{
+    height: 100px;
+    width: 700px;
+    font-size: 22px;
+    text-align: center;
+}
+.proverka1
+{
+	    text-decoration: none;
+    display: inline-block;
+    margin: 0 auto;
+    color: #fff;
+    background-color: #2980b9;
+    padding: 16px 22px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+	margin-top: 60px;
+    margin-left: 250px;
+}
+.dopinfa
+{
+	    padding-top: 20px;
+	    height: 100px;
+    width: 700px;
+    font-size: 17px;
+}
+.onlayn-servise
+{
+	    border-top: 2px solid #000;
+	    PADDING-LEFT: 150PX;
+}
+
+
+
+.niz
+{
+display: flex;
+    margin-top: 25px;
+}
+.nizleft
+{
+    padding-left: 170px;
+        color: #9c9c9c;
+   
+    font-size: 0.875rem;
+}
+.nizright
+{
+    padding-left: 800px;
+}
+.down3
+{
+
+}
+.autovin
+{
+	 
+}
